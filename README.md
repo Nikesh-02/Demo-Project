@@ -1,3 +1,4 @@
 # Demo-Project
-This is my first git repository
-AAuthor-Nikesh Kumar
+This is my first git repository.
+<br>
+Author-Nikesh Kumar
